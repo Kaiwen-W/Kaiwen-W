@@ -13,5 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiwen-W&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiwen-W&hide=html,css&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kaiwen-W&theme=transparent&rank_icon=github" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
